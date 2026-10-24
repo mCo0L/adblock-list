@@ -2,3 +2,15 @@
 ||*.amazon-adsystem.com
 ||mads.amazon.com
 ||fls-eu.amazon.com
+
+
+||ad.hismarttv.com^
+||ads.hismarttv.com^
+||adsrv.hismarttv.com^
+||log.hismarttv.com^
+||logs.hismarttv.com^
+||stats.hismarttv.com^
+||tracking.hismarttv.com^
+||data.hismarttv.com^
+||acr.hismarttv.com^
+||ingest.hismarttv.com^
