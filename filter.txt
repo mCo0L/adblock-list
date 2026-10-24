@@ -1,0 +1,4 @@
+aax-eu.amazon-adsystem.com
+*.amazon-adsystem.com
+mads.amazon.com
+fls-eu.amazon.com
