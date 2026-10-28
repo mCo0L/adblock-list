@@ -3,7 +3,6 @@
 ||mads.amazon.com
 ||fls-eu.amazon.com
 ||telemetry.insights.video.a2z.com^
-||a2z.com^
 
 
 ||ad.hismarttv.com^
